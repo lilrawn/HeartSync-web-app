@@ -141,3 +141,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support, email lironbrown162@gmail.com or join our Slack channel.
 
+## Donations
+
+If you find this project helpful and would like to support its development, please consider making a donation. Your support is greatly appreciated!
+
+- **PayPal**: [Donate via PayPal](https://www.paypal.com/donate?hosted_button_id=XXXXXX)
+
